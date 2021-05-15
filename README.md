@@ -1,2 +1,1 @@
-# marcoin
-marcoin.sol
+Marcoin or MAR oficial script.
